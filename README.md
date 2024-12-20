@@ -15,4 +15,4 @@ To address these limitations, we propose **VerSe**, a Versatile Segmentation fra
 ## Example
 Below is an example visualization of our VerSe framework:
 
-![VerSe Framework](./assets/verse_framework.pdf)
+![VerSe Framework](figure1.pdf)
